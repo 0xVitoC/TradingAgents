@@ -22,3 +22,8 @@ redis
 chainlit
 rich
 questionary
+gradio
+python-dotenv
+openai
+typer
+
